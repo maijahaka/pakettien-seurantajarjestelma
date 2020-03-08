@@ -72,7 +72,7 @@ Ohjelma tulostaa eri vaiheisiin kuluneen ajan.
 
 Ohjelman luoman tietokannan tietokantakaavio:
 
-![Tietokantakaavio](tietokantakaavio.png)
+![Tietokantakaavio](https://raw.githubusercontent.com/maijahaka/pakettien-seurantajarjestelma/master/Tietokantakaavio.png)
 
 Tietokannassa on neljä taulua: Paikat, Asiakkaat, Paketit ja Tapahtumat.
 
